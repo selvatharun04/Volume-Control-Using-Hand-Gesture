@@ -1,0 +1,11 @@
+Installation Steps
+
+Clone the Repository: Clone this repository to your local machine using the following command:
+git clone https://github.com/your-username/Volume-Control-Using-Hand-Gesture.git
+Navigate to the Project Directory: Move into the project directory:
+cd Volume-Control-Using-Hand-Gesture
+Create and Activate a Virtual Environment (optional but recommended):
+python -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+Install Dependencies: Install the required Python packages:
+pip install -r requirements.txt
